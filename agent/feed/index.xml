@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Agents</title>
+	<atom:link href="https://janus199203x.github.io/wp/agent/feed/" rel="self" type="application/rss+xml" />
+	<link>https://janus199203x.github.io/wp</link>
+	<description></description>
+	<lastBuildDate>Tue, 07 Mar 2023 03:56:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>JaNzz</title>
+		<link>https://janus199203x.github.io/wp/agent/janzz/</link>
+					<comments>https://janus199203x.github.io/wp/agent/janzz/#respond</comments>
+		
+		<dc:creator><![CDATA[JaNzz]]></dc:creator>
+		<pubDate>Tue, 07 Mar 2023 03:56:25 +0000</pubDate>
+				<guid isPermaLink="false">https://janus199203x.github.io/wp/agent/janzz/</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>https://janus199203x.github.io/wp/agent/janzz/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>nanta</title>
+		<link>https://janus199203x.github.io/wp/agent/nanta/</link>
+					<comments>https://janus199203x.github.io/wp/agent/nanta/#respond</comments>
+		
+		<dc:creator><![CDATA[nanta]]></dc:creator>
+		<pubDate>Tue, 07 Mar 2023 03:49:26 +0000</pubDate>
+				<guid isPermaLink="false">https://janus199203x.github.io/wp/agent/nanta/</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>https://janus199203x.github.io/wp/agent/nanta/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Agent 2</title>
+		<link>https://janus199203x.github.io/wp/agent/agent-2/</link>
+					<comments>https://janus199203x.github.io/wp/agent/agent-2/#respond</comments>
+		
+		<dc:creator><![CDATA[JaNzz]]></dc:creator>
+		<pubDate>Tue, 28 Feb 2023 05:11:13 +0000</pubDate>
+				<guid isPermaLink="false">https://janus199203x.github.io/wp/?post_type=agent#038;p=203</guid>
+
+					<description><![CDATA[ini agent ini agent ini agent ini agent ini agent ini agent ini agent ini agent ini agent ini agent ini agent ini agent]]></description>
+		
+					<wfw:commentRss>https://janus199203x.github.io/wp/agent/agent-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Budi Setyono</title>
+		<link>https://janus199203x.github.io/wp/agent/budi-setyono/</link>
+					<comments>https://janus199203x.github.io/wp/agent/budi-setyono/#respond</comments>
+		
+		<dc:creator><![CDATA[JaNzz]]></dc:creator>
+		<pubDate>Sat, 25 Feb 2023 17:34:42 +0000</pubDate>
+				<guid isPermaLink="false">https://janus199203x.github.io/wp/?post_type=agent#038;p=70</guid>
+
+					<description><![CDATA[ini agent ini agent ini agent ini agent ini agent ini agent]]></description>
+		
+					<wfw:commentRss>https://janus199203x.github.io/wp/agent/budi-setyono/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
